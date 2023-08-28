@@ -1,4 +1,4 @@
-# Hi 👋, I'm Deepti Rathor
+# Hi 👋, I'm Deepti Devi
 
 ### A passionate Front-end Developer from India
 
